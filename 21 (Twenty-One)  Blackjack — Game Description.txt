@@ -1,0 +1,15 @@
+21, commonly known as Blackjack, is a popular card game played between one or more players and a dealer. The main objective is to score a hand value as close to 21 as possible without exceeding it (going “bust”).
+
+Each card has a point value:
+
+Number cards (2–10) are worth their face value
+
+Face cards (Jack, Queen, King) are worth 10 points
+
+An Ace is worth 1 or 11 points, depending on which benefits the hand
+
+At the start of the game, each player and the dealer receive two cards. Players’ cards are usually dealt face up, while the dealer has one card face up and one face down. Players then take turns choosing actions such as hit (take another card), stand (keep current hand), or sometimes double down or split, depending on the rules.
+
+After all players finish their turns, the dealer reveals their hidden card and must follow fixed rules—typically hitting until reaching at least 17 points. The winner is the player whose hand is closer to 21 than the dealer’s without going over. A hand totaling exactly 21 with the first two cards (an Ace and a 10-value card) is called a blackjack and usually wins immediately with a higher payout.
+
+The game combines simple rules, probability, and strategy, making it one of the most popular casino card games worldwide.
